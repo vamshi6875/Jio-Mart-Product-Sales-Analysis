@@ -19,3 +19,5 @@ It explores Revenue, profit margin and discounts.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Solved SQL queries according to the questions.
 - Created dashboard to visualize the data in Power BI.
+## Dashboard
+https://1drv.ms/i/c/0b88c417a26acc73/IQDRG28sn9ZAT6Ge7ni53YPhAV3J2My9ApqDTkr69OApC7o?e=KEssez
