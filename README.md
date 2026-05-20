@@ -22,3 +22,10 @@ It explores Revenue, profit margin and discounts.
 ## Dashboard
 ![Dashboard Screenshot](https://github.com/vamshi6875/Jio-Mart-Product-Sales-Analysis/blob/main/Screenshot%202025-12-18%20083921.png)
 
+## Project Insights
+- The product with lowest sale price is from Groceries category.
+- Highest number of income is generated from Beauty & Hygiene.
+- Despite giving the 2nd highest discount and ratings beverages are still failing at revenue collection.
+- Comparatively the category which has less number of products and discounts still collects a good amount of revenue.
+## Final Conclusion
+To improve the sales of Jio Mart as Baby care has a good rating and if we increase 1-2% of discount and add 3-4 times of the existing products we can expect good spike in revenue. As the Beverages still at bottom of revenue despite having highest discount, I think making a combination of snacks and beverages by giving decent offers.
