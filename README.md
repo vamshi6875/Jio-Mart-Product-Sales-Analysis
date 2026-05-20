@@ -21,3 +21,4 @@ It explores Revenue, profit margin and discounts.
 - Created dashboard to visualize the data in Power BI.
 ## Dashboard
 https://1drv.ms/i/c/0b88c417a26acc73/IQDRG28sn9ZAT6Ge7ni53YPhAV3J2My9ApqDTkr69OApC7o?e=KEssez
+https://github.com/vamshi6875/Jio-Mart-Product-Sales-Analysis/blob/main/Screenshot%202025-12-18%20083921.png
