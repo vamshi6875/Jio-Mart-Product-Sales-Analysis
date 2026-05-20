@@ -20,7 +20,8 @@ It explores Revenue, profit margin and discounts.
 - Solved SQL queries according to the questions.
 - Created dashboard to visualize the data in Power BI.
 ## Dashboard
-![Dashboard Screenshot](https://github.com/vamshi6875/Jio-Mart-Product-Sales-Analysis/blob/main/Screenshot%202025-12-18%20083921.png)
+ [View Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=90e12bda-59a3-4847-9db1-19e83d840a50&autoAuth=true&ctid=40e37dba-8e59-4386-bc4e-3615f1f53079)
+
 
 ## Project Insights
 - The product with lowest sale price is from Groceries category.
